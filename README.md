@@ -43,13 +43,16 @@ This site showcases my skills, projects, education, certifications, and contact 
 ## 📸 Screenshots
 
 **Hero Section**  
-![Hero Section](../Pictures/Screenshots/Screenshot%202025-06-27%20132544.png)
+![Screenshot 2025-06-27 132544](https://github.com/user-attachments/assets/cf4bd9fb-f16d-4b79-a027-acc79592b217)
+
 
 **Projects Section**  
-![Projects Section](../Pictures/Screenshots/Screenshot%202025-06-27%20132817.png)
+![Screenshot 2025-06-27 132817](https://github.com/user-attachments/assets/379e972d-14c9-4e86-b097-43d6903e5472)
+
 
 **Contact Section**  
-![Contact Section](../Pictures/Screenshots/Screenshot%202025-06-27%20132846.png)
+![Screenshot 2025-06-27 132846](https://github.com/user-attachments/assets/c3a32c77-e635-4d6f-939a-0f7b2176ae02)
+
 
 ---
 
