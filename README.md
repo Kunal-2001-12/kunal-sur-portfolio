@@ -34,7 +34,7 @@ This site showcases my skills, projects, education, certifications, and contact 
 ```
 .
 ├── index.html
-├── kunal sur01.JPG         # Your profile image (update path if needed)
+├── kunal sur01.JPG         
 ├── README.md
 ```
 
